@@ -9,6 +9,8 @@ import UIKit
 
 class OrangeViewController: UIViewController {
 
+    let label = UILabel()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .orange
